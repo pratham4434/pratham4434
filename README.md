@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I have a YouTube channel with 30k+ subs and a total of 10M views.**
 
-## 🚀 Languages and Tools:
+## 🚀  Learning Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
