@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **prathamsharmafaangm@gmail.com**
 
-- ⚡ Fun fact **I have a YouTube channel with 30k+ subs and a total of 10M views.**
+- ⚡ Fun fact **I have a YouTube channel with 35k+ subs and a total of 10M views.**
 
 ## 🚀  Learning Languages and Tools:
 
