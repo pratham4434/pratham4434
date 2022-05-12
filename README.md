@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ** **
+- 🔭 I’m currently working on **Javascript**
 
 - 🌱 I’m currently learning **Web Development**
 
