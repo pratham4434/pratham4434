@@ -85,3 +85,6 @@
     <img src="https://komarev.com/ghpvc/?username=Pratham4434">
 </a>
 <a href="https://github.com/Pratham4434?tab=followers"><img src="https://img.shields.io/github/followers/Pratham4434?label=Followers&style=social" alt="GitHub Badge"></a>
+
+## Snake eating my contributions!
+![snake gif](https://github.com/Pratham4434/Pratham4434/blob/output/github-contribution-grid-snake.gif)
