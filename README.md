@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
