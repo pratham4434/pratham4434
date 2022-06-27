@@ -1,12 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pratham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Pratham</h1>
 <h3 align="center">I'm a student and a passionate learner from India.</h3>
 
 
 ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **React.js**
 
@@ -14,9 +12,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/pratham4434/WebD-Projects.git)**
 
-- 📫 How to reach me **prathamsharmafaangm@gmail.com**
+- 📫 You may contact me thru **prathamsharmafaangm@gmail.com**
 
-- ⚡ Fun fact **I have a YouTube channel with 35k+ subs and a total of 10M views.**
+- ⚡ Fun fact **I have a YouTube channel with 40k+ subs and a total of 12M+ views.**
 
 ## 🚀  Learning Languages and Tools:
 
